@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&display=swap');
+
+header {
+    font-size: 50px;
+    background-color: orange;
+    display: flex;
+    justify-content: end;
+}
+nav b{
+    background-color: #DBBE96;
+}
+
+body {
+    background-color: #DBBE96;
+    font-family: Gwendolyn;
+}
+h1{background-color: orange;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;}
+
+p{background-color: orange;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;;}
+    
+strong{background-color: orange;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;}
+
+div{font-size: 25px;
+}
